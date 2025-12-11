@@ -1,5 +1,5 @@
 ## Hello world I'm Ammar Ramadhani Asni 👋
-
+![Ammar Ramadhani Asni](img/github-header-banner.png)
 <!--
 **Ammarramadhaniasni/ammarramadhaniasni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
